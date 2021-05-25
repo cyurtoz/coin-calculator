@@ -2,7 +2,7 @@
 A service that can show btc prices and enables buying of BTC with coin amount or currency amount.
 
 The customer first applies for a buying amount and receives a unit price and reservation id. 
-If the price is not expired, he/she can buy the amount he has reserved by via reservation id.   
+If the price is not expired, he/she can buy the amount he has reserved by reservation id.   
 ### Run
 The service runs on localhost 8080 port.
 It exposes a Swagger UI on http://localhost:8080/swagger-ui.html#/
